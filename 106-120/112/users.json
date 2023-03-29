@@ -1,0 +1,81 @@
+[{
+        "id": 1,
+        "first_name": "Huntington",
+        "last_name": "McComiskie",
+        "email": "hmccomiskie0@admin.ch",
+        "gender": null,
+        "is_active": false
+    },
+    {
+        "id": 2,
+        "first_name": "Lukas",
+        "last_name": "Cottrill",
+        "email": "lcottrill1@linkedin.com",
+        "gender": null,
+        "is_active": true
+    },
+    {
+        "id": 3,
+        "first_name": "Heath",
+        "last_name": "Rourke",
+        "email": "hrourke2@t.co",
+        "gender": "Genderfluid",
+        "is_active": true
+    },
+    {
+        "id": 4,
+        "first_name": "Lucie",
+        "last_name": "Brunetti",
+        "email": "lbrunetti3@bbb.org",
+        "gender": "Non-binary",
+        "is_active": true
+    },
+    {
+        "id": 5,
+        "first_name": "Minette",
+        "last_name": "Graysmark",
+        "email": "mgraysmark4@fotki.com",
+        "gender": null,
+        "is_active": true
+    },
+    {
+        "id": 6,
+        "first_name": "Stormi",
+        "last_name": "Thresher",
+        "email": "sthresher5@umn.edu",
+        "gender": "Non-binary",
+        "is_active": true
+    },
+    {
+        "id": 7,
+        "first_name": "Rochella",
+        "last_name": "Berry",
+        "email": "rberry6@moonfruit.com",
+        "gender": "Female",
+        "is_active": false
+    },
+    {
+        "id": 8,
+        "first_name": "Lock",
+        "last_name": "Pablo",
+        "email": "lpablo7@networkadvertising.org",
+        "gender": "Genderqueer",
+        "is_active": false
+    },
+    {
+        "id": 9,
+        "first_name": "Anton",
+        "last_name": "Hugnin",
+        "email": "ahugnin8@flickr.com",
+        "gender": "Genderqueer",
+        "is_active": true
+    },
+    {
+        "id": 10,
+        "first_name": "Stephi",
+        "last_name": "Jacqueme",
+        "email": "sjacqueme9@exblog.jp",
+        "gender": "Male",
+        "is_active": false
+    }
+]
